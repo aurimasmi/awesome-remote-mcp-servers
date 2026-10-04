@@ -1,0 +1,14 @@
+README.md
+  h_af305fd8f2c5c5 1158-1160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2bea67a58f833e4aeb9744f378cd32705b574dbe",
+  "prompts": {},
+  "humans": {
+    "h_af305fd8f2c5c5": {
+      "author": "Aurimas Mickys <aurimasmickys@gmail.com>"
+    }
+  }
+}
